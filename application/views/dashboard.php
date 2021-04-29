@@ -46,7 +46,7 @@
             </div>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <div class="small-box bg-warning">
+            <div class="small-box bg-success">
               <div class="inner">
                 <h3 id="transaksi_terakhir">0</h3>
                 <p>Produk Transaksi Terakhir</p>
@@ -89,7 +89,7 @@
             </div>
           </div>
           <div class="col-md-6">
-            <div class="card card-warning">
+            <div class="card card-success">
               <div class="card-header">
                 <h3 class="card-title">Stok Produk</h3>
               </div>
