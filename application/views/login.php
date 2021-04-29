@@ -11,17 +11,19 @@
 <body class="hold-transition login-page">
 
   <div class="login-box">
-    <div class="login-logo">Login</div>
-    <div class="card">
-      <div class="card-body login-card-body">
-        <p class="login-box-msg">Login untuk masuk</p>
+    <div class="card card-outline card-primary">
+      <div class="card-header text-center">
+        <span class="h1">Rest Coffee</span>
+      </div>
+      <div class="card-body">
+        <p class="login-box-msg">Masuk terlebih dahulu</p>
         <div class="alert alert-danger d-none"></div>
         <form>
           <div class="input-group mb-3">
             <input type="text" class="form-control" name="username" placeholder="Username" required>
             <div class="input-group-append">
               <div class="input-group-text">
-                <span class="fas fa-user"></span>
+                <span class="fas fa-envelope"></span>
               </div>
             </div>
           </div>
